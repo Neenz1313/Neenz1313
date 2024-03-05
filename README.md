@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -51,5 +51,10 @@
 </div>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neenz1313&show_icons=true&locale=en&layout=compact" alt="Neenz1313" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neenz1313&show_icons=true&locale=en" alt="Neenz1313" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neenz1313&" alt="Neenz1313" /></p>
 
 
