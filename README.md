@@ -1,8 +1,8 @@
-<h2 align="center">Hi! I'm Nina Brown 👋</h2>
+<h2 align="center"> Hi! I'm Nina Brown </h2>
 
-<p align="center"> <img height="125" width="125" alt="Pusheen Left" width="400" src="pusheen kiss no background other side.png"  /> 
+<p align="center"> <img height="100" width="100" alt="Pusheen Left" src="pusheen kiss no background other side.png"  /> 
   <img height="150" width="150" alt="Profile Picture" width="400" src="https://github.com/Neenz1313.png"  /> 
-  <img height="125" width="125" alt="Pusheen Right" width="400" src="pusheen kiss no background.png"  /> 
+  <img height="100" width="100" alt="Pusheen Right" src="pusheen kiss no background.png"  /> 
 
 <h3 align="left">A passionate Data Scientist from Cape Town, who works in the Corporate IT Sector.</h3>
 
@@ -24,9 +24,10 @@
 
 I studied Actuarial Science, and I've moved to tech. I'm in my first year of my first job, so I'm keen to get into the coding community. In my spare time, I like to go to the beach as much as possible and play water polo. I enjoy fanfiction, gaming, anime and musicals.
 
-
-
 <h3 align="left">Languages and Tools:</h3>
+  
+<img align="left" height=125 width=170 src="pusheen typing.gif" alt="Pusheen Typing">
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -40,6 +41,8 @@ I studied Actuarial Science, and I've moved to tech. I'm in my first year of my 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
   <img width="12" />
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
@@ -52,9 +55,13 @@ I studied Actuarial Science, and I've moved to tech. I'm in my first year of my 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
+  
+<p alight="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+  <img width="12" />
 
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neenz1313&show_icons=true&locale=en&layout=compact" alt="Neenz1313" /></p>
 
