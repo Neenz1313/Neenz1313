@@ -9,7 +9,7 @@
   
 - 🔭 I’m currently working on RAG on enterprise data using Azure OpenAI
   
-- 🌱 I’m currently learning To make a .NET web API in c#
+- 🌱 I’m currently learning to make a .NET web API in c#
 
 - 💬 Ask me about Microsoft Copilot Studio and PVA chatbots
 
@@ -18,6 +18,11 @@
 - 😄 Pronouns: She/her
 
 - ⚡ Fun fact: I have a very cute cat! Ask me about him whenever.
+
+- 🎮 My favourite games are Ori and the Blind Forest, Hollow Knight, and Genshin Impact. I'm currently playing the Last Campfire.
+
+
+I studied Actuarial Science, and I've moved to tech. I'm in my first year of my first job, so I'm keen to get into the coding community. In my spare time, I like to go to the beach as much as possible and play water polo. I enjoy fanfiction, gaming, anime and musicals.
 
 
 
