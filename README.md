@@ -1,8 +1,8 @@
 <h2 align="center">Hi! I'm Nina Brown 👋</h2>
 
-
-<div align="center"> <img height="150" width="150" alt="Profile Picture" width="400" src="https://github.com/Neenz1313.png"> </div>
-
+<p align="center"> <img height="125" width="125" alt="Pusheen Left" width="400" src="pusheen kiss no background other side.png"  /> 
+  <img height="150" width="150" alt="Profile Picture" width="400" src="https://github.com/Neenz1313.png"  /> 
+  <img height="125" width="125" alt="Pusheen Right" width="400" src="pusheen kiss no background.png"  /> 
 
 <h3 align="left">A passionate Data Scientist from Cape Town, who works in the Corporate IT Sector.</h3>
 
