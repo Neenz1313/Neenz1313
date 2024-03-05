@@ -4,7 +4,7 @@
 <div align="center"> <img height="150" width="150" alt="Profile Picture" width="400" src="https://github.com/Neenz1313.png"> </div>
 
 
-<h3 align="left">A passionate Data Scientist From Cape Town, who works in the Corporate IT Sector.</h3>
+<h3 align="left">A passionate Data Scientist from Cape Town, who works in the Corporate IT Sector.</h3>
 
   
 - 🔭 I’m currently working on RAG on enterprise data using Azure OpenAI
